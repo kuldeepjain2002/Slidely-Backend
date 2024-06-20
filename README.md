@@ -2,7 +2,7 @@
 ### Backend (Express.js Server)
 1. **Navigate to the Backend Directory**:
     ```sh
-    cd /path/to/your-repository-name/backend
+    cd /path/to/your-repository-name/
     ```
 
 2. **Install Dependencies**:
@@ -14,11 +14,18 @@
     ```sh
     npm start
     ```
+    or
+   ```sh
+    npm run dev
+    ```
+   
 
-4. **Server Endpoints**:
+5. **Server Endpoints**:
     - **/ping**: A GET request that always returns true.
     - **/submit**: A POST request to submit form data.
     - **/read**: A GET request to read a form submission by index.
+    - **/delete**: A DELETE request to delete a form submission by index.
+    - **/put**: A DELETE request to update a form submission by index. 
 
 ## Usage
 1. **Start the Backend Server**:
