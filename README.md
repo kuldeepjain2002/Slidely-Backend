@@ -1,8 +1,7 @@
 # Slidely-Backend
-### Backend (Express.js Server)
-1. **Navigate to the Backend Directory**:
+1. **Clone the Repository**:
     ```sh
-    cd /path/to/your-repository-name/
+    git clone https://github.com/kuldeepjain2002/Slidely-Backend.git
     ```
 
 2. **Install Dependencies**:
